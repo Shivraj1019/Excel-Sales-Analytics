@@ -1,5 +1,4 @@
 # Excel-Sales-Analytics
-# Excel Sales Analytics
 
 Welcome to the **Excel Sales Analytics** project! This repository showcases a comprehensive analysis of sales data using Microsoft Excel, focusing on deriving actionable insights through various analytical techniques.
 
